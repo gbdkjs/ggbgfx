@@ -1,0 +1,23 @@
+{
+  "name": "ggbgfx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-prettier": "^2.9.0",
+    "jest": "^22.1.4"
+  },
+  "dependencies": {
+    "es6-promisify": "^6.0.0",
+    "get-pixels": "^3.3.0",
+    "save-pixels": "^2.3.4",
+    "zeros": "^1.0.0"
+  }
+}
