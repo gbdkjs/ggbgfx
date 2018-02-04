@@ -7,8 +7,8 @@
     "lint": "eslint index.js",
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Chris Maltby",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^4.17.0",
     "eslint-config-prettier": "^2.9.0",
