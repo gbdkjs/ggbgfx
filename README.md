@@ -4,6 +4,12 @@
 
 Use this library to build an asset pipeline for your game's graphics.
 
+## GBDK.js Project
+
+Visit the [gbdkjs.com](https://www.gbdkjs.com) website for more information.
+
+[GBDK.js Documentation](https://www.gbdkjs.com/docs/)
+
 ## CLI
 
 See also `ggbgfx-cli` for a command line interface.
